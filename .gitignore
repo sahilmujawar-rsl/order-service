@@ -6,3 +6,8 @@ app.log
 logs/
 .env
 .DS_Store
+
+# Maven wrapper (local convenience only, not part of the source)
+.mvn/
+mvnw
+mvnw.cmd
